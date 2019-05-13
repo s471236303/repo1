@@ -9,6 +9,5 @@ public interface ItemsDao {
      * @return
      */
    Items findById(Integer id);
-   Items find(Integer id);
 
 }
